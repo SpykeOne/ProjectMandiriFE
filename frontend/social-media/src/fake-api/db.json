@@ -1,0 +1,20 @@
+{
+    "users" : [
+        {
+            "id": 1,
+            "username" : "alex",
+            "email" : "alex", 
+            "password" : "alex",
+            "full_name" : "alex"
+        }
+    ],
+    "posts" : [
+        {
+            "id": 1,
+            "username": "alex",
+            "noLikes": 100,
+            "caption": "lorem ipsum",
+            "img_link": ""
+        }
+    ]
+}
